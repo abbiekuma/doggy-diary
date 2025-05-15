@@ -1,3 +1,7 @@
+# Doggy Diary - Project Description
+
+This is a personal web app I built to document the daily life of my dog. As a dog owner, I wanted a dedicated space to record memorable moments, daily notes, and tasks related to my dog’s care. The app allows users to select a specific date, write a diary entry for that day, upload photos, and keep track of a to-do list. It combines journaling and task management into a single, visually pleasant interface to help pet owners stay organized and emotionally connected to their pets’ everyday lives.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
